@@ -1,0 +1,41 @@
+[{
+    "id": "toancaocap-1",
+    "type": "toancaocap-c1",
+    "question": "Đạo hàm của 9x^2 + 36x = ?",
+    "answer": ["9x^2", "36x", "18x + 36", "0"],
+    "right": 2,
+    "hint": "Áp dụng bảng đạo hàm cơ bản",
+    "level": "NB"
+}, {
+    "id": "toancaocap-2",
+    "type": "toancaocap-c1",
+    "question": "Đạo hàm của 3x + 5 = ?",
+    "answer": ["3", "3x", "3x+5", "5"],
+    "right": 0,
+    "hint": "Áp dụng bảng đạo hàm cơ bản",
+    "level": "TH"
+}, {
+    "id": "toancaocap-3",
+    "type": "toancaocap-c1",
+    "question": "Đạo hàm của 4 = ?",
+    "answer": ["4", "0", "4x", "1"],
+    "right": 1,
+    "hint": "Áp dụng bảng đạo hàm cơ bản",
+    "level": "VD"
+}, {
+    "id": "toancaocap-4",
+    "type": "toancaocap-c1",
+    "question": "Đạo hàm của sin(x) = ?",
+    "answer": ["cos(x) + C", "1", "cos(x)", "0"],
+    "right": 3,
+    "hint": "Áp dụng bảng đạo hàm cơ bản",
+    "level": "VD"
+}, {
+    "id": "toancaocap-5",
+    "type": "toancaocap-c1",
+    "question": "Đạo hàm của cos(x) + 5x + 6 = ?",
+    "answer": ["cos(x) + 5 + C", "cos(x) + 5", "cos(x)", "5x + 6"],
+    "right": 1,
+    "hint": "Áp dụng bảng đạo hàm cơ bản",
+    "level": "VD"
+}]

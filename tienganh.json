@@ -1,0 +1,9 @@
+[{
+    "id": "tienganh-1",
+    "type": "tienganh-vocab-c1-shirt",
+    "question": "Quần áo trong tiếng Anh là ... ?",
+    "answer": ["Book", "Clothes", "Car", "Draw"],
+    "right": 1,
+    "hint": "",
+    "level": "VDC"
+}]
