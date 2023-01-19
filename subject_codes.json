@@ -24,7 +24,7 @@
     },
     "tienganh": {
         "name": "Tiếng Anh P3",
-        "locked" : true,
+        "locked" : false,
         "api" : "https://raw.githubusercontent.com/dantruong2003/data/main/tienganh.json",
         "vocab": {
             "name": "Từ vựng",
