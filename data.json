@@ -1,37 +1,4 @@
 [{
-    "toancaocap": {
-        "name": "Toán giải tích",
-        "c1": "Đạo hàm",
-        "c2": "Tích phân bất định",
-        "c3": "Giới hạn",
-        "c4": "Chuỗi số",
-        "c5": "Cực trị",
-        "c6": {
-            "name": "Chương 6",
-            "vip1": "Chương 6 - 1",
-            "vip2": "Chương 6 - 2",
-            "vip3": "Chương 6 - 3"
-        }
-    },
-    "triethoc": {
-        "name": "Triết học Mac-Lenin",
-        "c1": "Nguồn gốc của Triết học",
-        "c2": "Tổng hợp 300 câu Triết học"
-    },
-    "tienganh": {
-        "name": "Tiếng Anh P3",
-        "vocab": {
-            "name": "Từ vựng",
-            "c1": {
-                "name": "Apperance",
-                "shirt": "Shirt",
-                "dress": "Dress",
-                "boots": "Boots"
-            }
-        }
-    }
-},
-[{
     "id": "toancaocap-1",
     "type": "toancaocap-c1",
     "question": "Đạo hàm của 9x^2 + 36x = ?",
@@ -2456,4 +2423,3 @@
     "hint": "Triết học cơ bản",
     "level": "NB"
 }]
-]
