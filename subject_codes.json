@@ -1,6 +1,7 @@
 {
     "toancaocap": {
         "name": "Toán giải tích",
+        "locked" : false,
         "api" : "https://raw.githubusercontent.com/dantruong2003/data/main/toancaocap.json",
         "c1": "Đạo hàm",
         "c2": "Tích phân bất định",
@@ -16,12 +17,14 @@
     },
     "triethoc": {
         "name": "Triết học Mac-Lenin",
+        "locked" : true,
         "api" : "https://raw.githubusercontent.com/dantruong2003/data/main/triethoc.json",
         "c1": "Nguồn gốc của Triết học",
         "c2": "Tổng hợp 300 câu Triết học"
     },
     "tienganh": {
         "name": "Tiếng Anh P3",
+        "locked" : true,
         "api" : "https://raw.githubusercontent.com/dantruong2003/data/main/tienganh.json",
         "vocab": {
             "name": "Từ vựng",
