@@ -3,17 +3,7 @@
         "name": "Toán giải tích",
         "locked" : false,
         "api" : "https://raw.githubusercontent.com/dantruong2003/data/main/toancaocap.json",
-        "c1": "Đạo hàm",
-        "c2": "Tích phân bất định",
-        "c3": "Giới hạn",
-        "c4": "Chuỗi số",
-        "c5": "Cực trị",
-        "c6": {
-            "name": "Chương 6",
-            "vip1": "Chương 6 - 1",
-            "vip2": "Chương 6 - 2",
-            "vip3": "Chương 6 - 3"
-        }
+        "c1": "Đạo hàm"
     },
     "triethoc": {
         "name": "Triết học Mac-Lenin",
@@ -24,13 +14,13 @@
             "locked" : true
         },
         "c2": {
-        "name" : "Tổng hợp 300 câu Triết học",
-        "locked" : false
+            "name" : "Tổng hợp 300 câu Triết học",
+            "locked" : false
         }
     },
     "tienganh": {
         "name": "Tiếng Anh P3",
-        "locked" : false,
+        "locked" : true,
         "api" : "https://raw.githubusercontent.com/dantruong2003/data/main/tienganh.json",
         "vocab": {
             "name": "Từ vựng",
