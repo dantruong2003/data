@@ -17,9 +17,12 @@
     },
     "triethoc": {
         "name": "Triết học Mac-Lenin",
-        "locked" : true,
+        "locked" : false,
         "api" : "https://raw.githubusercontent.com/dantruong2003/data/main/triethoc.json",
-        "c1": "Nguồn gốc của Triết học",
+        "c1": {
+            "name" : "Nguồn gốc của Triết học",
+            "locked" : true
+        },
         "c2": "Tổng hợp 300 câu Triết học"
     },
     "tienganh": {
